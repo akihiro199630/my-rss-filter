@@ -49,15 +49,3 @@ https://<ユーザー名>.github.io/<リポジトリ名>/filtered_rss.xml
 ```
 
 反映に数分かかる場合があります。以降は毎時（UTCの毎時0分）に自動実行され、Actionsから手動実行もできます。
-
-## ローカル実行
-
-Windows では `run.bat` を使います。実行前に PowerShell で接続先と除外キーワードを設定します。
-
-```powershell
-$env:SOURCE_RSS_URL = "<取得するRSSフィードの完全なURL>"
-$env:TARGET_ALT_TEXT = "〇〇,××"
-.\run.bat
-```
-
-RSS は `public/filtered_rss.xml` に生成されます。
