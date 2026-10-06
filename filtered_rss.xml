@@ -6,7 +6,7 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 01:59:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:45:50 +0000</lastBuildDate>
     <item>
       <title>【サウジアラビアRC展望】好走条件を満たすベルウッドディープに注目</title>
       <link>https://news.netkeiba.com/?pid=news_view&amp;no=344710</link>
@@ -17,6 +17,16 @@
 　過去10年のデータを見ると、前走から中9-24週と十分なレース間隔を空けて臨んだ馬が[9-2-4-9]、複勝率62.5％という非常に高い数字を記録してい...</description>
       <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=344710</guid>
       <pubDate>Mon, 05 Oct 2026 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【アイルランドT予想】侮れない前走3勝クラス組</title>
+      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59693</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/style/netkeiba.ja/image/writer/column_banner_D01_m.jpg" /&gt;&lt;br /&gt;近走にも好走歴のある昇級馬を狙う
+「府中牝馬S」が外れて(そのレース名は春に行き)昨年が第1回となったアイルランドトロフィーだが、予想するときは旧府中牝馬S(アイルランドトロフィーが付かなかった、秋の)時代からの通算で考えていいだろう。過去10年ということだと10年前はすでにGIIなので実質的な違いはない。
+
+　別定GIIだから前走GI組が強そうなものだが、GI組は過去10年[1-1-5-18]で、複勝率28.0％だが連対が少ない...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59693</guid>
+      <pubDate>Tue, 06 Oct 2026 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
