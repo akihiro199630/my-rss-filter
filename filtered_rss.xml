@@ -6,16 +6,7 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 10:55:19 +0000</lastBuildDate>
-    <item>
-      <title>【富士S】蹄不安で安田記念を回避…アドマイヤズームが待望の復帰戦だ</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=345056</link>
-      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1080432" /&gt;&lt;br /&gt;　24年の朝日杯FS覇者のアドマイヤズーム(牡4、栗東・友道康夫厩舎)が、富士ステークス(3歳上・GII・芝1600m)で復帰戦を迎える。
-
-　アドマイヤズームは父モーリス、母ダイワズーム、母の父ハーツクライの血統。母は12年のスイートピーSの覇者。半兄のダノンブレットとヴィアメントはオープン馬。また、祖母のフォルナリーナは99年に桜花賞トライアルの4歳牝馬特別で3着だった。馬主は近藤旬子氏。生産者は北海道千歳市の社台...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345056</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 15:39:12 +0000</lastBuildDate>
     <item>
       <title>【富士S】種牡馬入りが期待される超良血 アンパドゥが重賞連勝狙う</title>
       <link>https://news.netkeiba.com/?pid=news_view&amp;no=345395</link>
@@ -102,6 +93,24 @@
 　近年のルメール騎手は「秋華賞マイスター」と呼ぶにふさわしい活躍を見せている。これまで11回騎乗。3回目の参戦となった17年にディアドラで初制覇を果たすと、18年にアーモンドアイで史上3人目の連覇を達成した。その後、21年のファインルージュが2着、22年のスターズオンアースと23年のハーパーが3?..</description>
       <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=344960</guid>
       <pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【東京HJ】2連覇中のジューンベロシティ 記録尽くめの勝利なるか</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=345116</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1078874" /&gt;&lt;br /&gt;　現役最多タイのJRA重賞6勝を挙げるジューンベロシティ(牡8、栗東・武英智厩舎)が、東京ハイジャンプ(3歳上・JGII・直線芝3110m)で史上初の3連覇を狙う。
+
+　ジューンベロシティは父ロードカナロア、母アドマイヤサブリナ、母の父シンボリクリスエスの血統。母はJRAで3勝。半弟のジューンテイクは24年の京都新聞杯と今年の京都記念を制している。さらに曾祖母のツィンクルブライドは94年の桜花賞の2着馬。近親にはペールギュ...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345116</guid>
+      <pubDate>Wed, 14 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【川崎・鎌倉記念結果】ブラフキャッチが差し切って重賞初制覇</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=345578</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1080765" /&gt;&lt;br /&gt;　14日、川崎競馬場で行われた第25回鎌倉記念(2歳・重賞・ダ1600m・1着賞金1800万円)は、中団から脚を伸ばした野畑凌騎手騎乗の6番人気ブラフキャッチ(牡2、川崎・高月賢一厩舎)が、後方から直線で追い込んだ9番人気エイシンフロイデ(牡2、北海道・村上正和厩舎)に3馬身差をつけ優勝した。勝ちタイムは1分44秒3(良)。
+
+　さらに1馬身差の3着に4番人気ウノキボンバイエ(牡2、浦和・宇野木博厩舎)が入った。なお、1番人気ルース...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345578</guid>
+      <pubDate>Wed, 14 Oct 2026 11:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
