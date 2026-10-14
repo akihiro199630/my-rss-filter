@@ -6,18 +6,7 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 21:40:21 +0000</lastBuildDate>
-    <item>
-      <title>【富士S】武豊騎手が9年ぶり4勝目へ アドマイヤズームで参戦</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=345057</link>
-      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1080441" /&gt;&lt;br /&gt;　武豊騎手がアドマイヤズーム(牡4、栗東・友道康夫厩舎)で、富士ステークス(3歳上・GII・芝1600m)の9年ぶり4勝目を狙う。
-
-　武豊騎手はこれまで富士Sに11回騎乗している。2回目の参戦となった03年にミレニアムバイオで初制覇を果たすと、04年のアドマイヤマックスで連覇を達成。さらに17年にはエアスピネルでも勝利した。通算3勝は戸崎圭太騎手と並んで最多タイの数字となる。
-
-　今年はアドマイヤズームで参戦する。24年...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345057</guid>
-      <pubDate>Tue, 13 Oct 2026 11:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 00:46:23 +0000</lastBuildDate>
     <item>
       <title>【富士S展望】前走惜敗のファンダムの前進に期待</title>
       <link>https://news.netkeiba.com/?pid=news_view&amp;no=345476</link>
@@ -28,6 +17,24 @@
 　過去10年の馬齢別成績を見ると、4歳馬が[5-4-1-25]で勝率14.3％・複勝率28.6％と最も高い数値を記録している。次点も勝率7.1％・複勝率21.4％の3歳馬で、充実期を迎える4歳馬を軸に若?..</description>
       <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345476</guid>
       <pubDate>Tue, 13 Oct 2026 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「神の馬」ラムタラに捧げた貴重な1勝 メイショウラムセスの02年富士Sを回想</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=344847</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1077693" /&gt;&lt;br /&gt;「神の馬」と謳われた父に、待望の重賞タイトルを届けた。02年の富士Sを制したのはメイショウラムセス。この勝利は結果的に、ラムタラ産駒による唯一のJRA平地重賞勝利となった。父が期待されたほどの産駒成績を残せなかった中、この1勝は大きな意味を持つものだった。今回は、そんな印象的な一戦を振り返ろう。
+
+　ラムタラは米国生まれのニジンスキー(Nijinsky)産駒。通算成績は4戦4勝。95年に英ダービー、キングジョージVI...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=344847</guid>
+      <pubDate>Tue, 13 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ファインモーションが無傷5連勝で戴冠 02年秋華賞をプレイバック</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=344807</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1077552" /&gt;&lt;br /&gt;　今でも史上最強牝馬の呼び声が上がるファインモーション。牝馬離れしたスケールを誇った愛国生まれの良血馬。今回はそんな彼女がGI初制覇を果たした02年の秋華賞を振り返る。
+
+　ファインモーションは父デインヒル、母Cocotte、母の父Troyの血統。半兄のピルサドスキーは97年のジャパンCなど、世界各国でG1・6勝を挙げた名馬だった。名門・伊藤雄二厩舎から01年12月にデビュー。単勝1.1倍の圧倒的支持に応え、阪神芝2000mの...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=344807</guid>
+      <pubDate>Tue, 13 Oct 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
