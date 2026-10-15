@@ -6,18 +6,7 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 01:08:23 +0000</lastBuildDate>
-    <item>
-      <title>【秋華賞展望】新星モンローウォークが無敗戴冠へ</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=345475</link>
-      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1080456" /&gt;&lt;br /&gt;　3歳牝馬三冠路線の最終戦となる秋華賞。今年は桜花賞馬とオークス馬が不在のメンバー構成となった。春の実績馬、夏の上がり馬のどちらが新たな女王となるのか、京都の芝2000mを舞台に白熱したレースが期待される。
-
-1.前走1-2番人気に支持された馬が中心
-
-　過去10年の秋華賞において、前走で1番人気に支持されていた馬が[6-4-2-22]、2番人気だった馬が[3-2-2-17]と、計9勝を挙げている。実績馬が結果を出しやすいレース?..</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345475</guid>
-      <pubDate>Wed, 14 Oct 2026 21:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 06:47:05 +0000</lastBuildDate>
     <item>
       <title>レース史上最高の1098万馬券！ ブラックエンブレムが制した08年秋華賞を振り返る</title>
       <link>https://news.netkeiba.com/?pid=news_view&amp;no=344804</link>
@@ -35,6 +24,59 @@
 　富田騎手は96年12月11日生まれ、茨城県出身の29歳。17年3月に栗東・木原一良厩舎からデビューした。JRA通算4553戦221勝。19年から20年にかけての豪州遠征などで腕を磨き、23年には自己ベストとなる42勝をマーク。同年のセントウルSをテイエムスパーダで制し、重賞初制覇も果たした。また、24年...</description>
       <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345055</guid>
       <pubDate>Wed, 14 Oct 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【東京HJ】障害王のエコロデュエル オジュウチョウサン以来となるGI馬の戴冠なるか</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=345115</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1078871" /&gt;&lt;br /&gt;　25年のJRA賞最優秀障害馬のエコロデュエル(牡7、美浦・岩戸孝樹厩舎)が、東京ハイジャンプ(3歳上・JGII・直線芝3110m)で始動する。
+
+　エコロデュエルは父キタサンブラック、母クラリネット、母の父Giant's Causewayの血統。半姉のシャンブルはオープン馬。近親のシチズンブル(Citizen Bull)は24年に米G1のアメリカンファラオSとBCジュベナイルを制している。馬主は原村正紀氏。生産者は北海道日高町の下河辺牧場。馬名の意...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345115</guid>
+      <pubDate>Thu, 15 Oct 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>墓に刻まれた名と、レースに残る馬名</title>
+      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59740</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/style/netkeiba.ja/image/writer/column_banner_CH15_m.jpg" /&gt;&lt;br /&gt;　先週の日曜日、東武百貨店池袋店で開催されていた日本画家の宮下真理子さんの個展会場で、宮下さんと私のトークとサイン会が行われた。
+
+　拙著『一代の女傑』の装画となった「華やかな蹄音」という80号(145.5cm×112cm)の作品の制作を宮下さんに依頼した経緯や、私からのリクエストの内容、制作プロセスなどから話しはじめ、馬を描く難しさや、馬という生き物の性質、社会的な立ち位置などについて、50分ほどのトークとな?..</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59740</guid>
+      <pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【秋華賞予想】相手探しムードゆえに直行組の取捨選択が重要になりそうなレース</title>
+      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59737</link>
+      <description>&lt;img alt="重賞プロファイル" src="https://cdn.netkeiba.com/img.news/style/netkeiba.ja/image/column/meshiuma/261014meshiuma01.jpg" style="width: 100%;" /&gt;今や「直行→好走」のノウハウはノーザンファームだけのものではない
+　桜花賞・オークス馬がともに不在で迎える秋華賞は全30回で2回だけ。クロノジェネシスが勝った19年と、ファインモーションが勝った02年は、それぞれ阪神JFの勝ち馬は出走していたので、2歳戦も含めGI馬不在は、31回目にして初めてのこと。
+
+　1番人気が確実なモンローウォークはその戦歴から、02年の勝ち馬になぞらえて“令和のファインモーション”と呼...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59737</guid>
+      <pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【秋華賞】佐々木大輔騎手がGI初制覇なるか 伏兵スウィートハピネスで一発狙う</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=345054</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1078588" /&gt;&lt;br /&gt;　デビュー5年目の佐々木大輔騎手が、秋華賞(3歳牝・GI・芝2000m)のスウィートハピネス(牝3、栗東・北出成人厩舎)でGI初制覇を狙う。
+
+　佐々木騎手は03年11月24日生まれ、茨城県出身の22歳。22年に美浦・菊川正達厩舎からデビュー。同期には今村聖奈騎手や西塚洸二騎手がいる。JRA通算3343戦278勝。ルーキーイヤーは9勝に留まったが、2年目以降は68勝、77勝、81勝と大きく飛躍。関東の若手のホープと目されており、今年も既?..</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345054</guid>
+      <pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【秋華賞出走馬・騎手確定】モンローウォーク＆戸崎圭太騎手、ドリームコア＆C.ルメール騎手など17頭</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=345623</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1080974" /&gt;&lt;br /&gt;　10月18日に京都競馬場で行われる、第31回秋華賞(3歳・牝・GI・芝2000m)の出走馬・騎手が確定した。
+
+　無傷の4連勝でローズSを制したモンローウォーク(牝3、栗東・上村洋行厩舎)は戸崎圭太騎手、オークス2着馬ドリームコア(牝3、美浦・田中博康厩舎)はC.ルメール騎手。
+
+エンネ　坂井瑠星
+カナルサンマルタン　岩田望来
+ガーネットフレア　北村友一
+ギャラボーグ　横山和生
+サムシングスイート　松山弘平
+スウィート...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345623</guid>
+      <pubDate>Thu, 15 Oct 2026 05:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
