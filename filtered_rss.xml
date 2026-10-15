@@ -6,7 +6,7 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 22:53:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:08:23 +0000</lastBuildDate>
     <item>
       <title>【秋華賞展望】新星モンローウォークが無敗戴冠へ</title>
       <link>https://news.netkeiba.com/?pid=news_view&amp;no=345475</link>
@@ -26,6 +26,15 @@
 　波乱の主役はブラックエンブレムだった。春のフラワーCを逃げ切って重賞初制覇。オークスでも先行して4着と健闘していた。ただ、秋初戦のロー...</description>
       <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=344804</guid>
       <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【秋華賞】富田暁騎手がGI初制覇なるか 3連勝中のテイエムアイランで逃げ切り狙う</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=345055</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1078591" /&gt;&lt;br /&gt;　デビュー10年目の富田暁騎手が、秋華賞(3歳牝・GI・芝2000m)のテイエムアイラン(牝3、栗東・宮地貴稔厩舎)でGI初制覇を狙う。
+
+　富田騎手は96年12月11日生まれ、茨城県出身の29歳。17年3月に栗東・木原一良厩舎からデビューした。JRA通算4553戦221勝。19年から20年にかけての豪州遠征などで腕を磨き、23年には自己ベストとなる42勝をマーク。同年のセントウルSをテイエムスパーダで制し、重賞初制覇も果たした。また、24年...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345055</guid>
+      <pubDate>Wed, 14 Oct 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
