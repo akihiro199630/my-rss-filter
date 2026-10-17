@@ -6,7 +6,7 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 21:54:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:40:21 +0000</lastBuildDate>
     <item>
       <title>【今日の注目ポイント】牝馬三冠の最終戦・秋華賞</title>
       <link>https://news.netkeiba.com/?pid=news_view&amp;no=345837</link>
@@ -30,6 +30,37 @@
       <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1081377" /&gt;&lt;br /&gt;　1996年に新設されたGI競走で、3歳牝馬三冠競走の最終戦的位置づけとなる。舞台となる京都競馬場内回り2000mコースはスタンド前から発走して1周1782.8mという京都競馬場内回りコース(Aコース使用時)を1周と少々。3角に設けられている坂以外はほぼ平坦で、最後の直線は328.4m。昨年は桜花賞に勝ってオークスを大敗したエンブロイダリーが勝利し、一昨年は桜花賞を大敗しながらもオークスに勝ったチェルヴィニアが勝利しているよ...</description>
       <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345745</guid>
       <pubDate>Sat, 17 Oct 2026 21:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>秋華賞はノーザンファームが好相性 上がり最速馬も好成績</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=345208</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1079294" /&gt;&lt;br /&gt;　日曜京都メインは秋華賞(3歳牝・GI・芝2000m)。ここでは近10回の人気別、脚質別、枠順別、馬体重別、ローテーション別、生産者別の成績から、レース傾向を探りたい。
+
+　まずは人気別だ。1番人気は【4-0-1-5】なので、アタマあってヒモなしの極端な傾向。ただ、堅いレースであることは間違いなく、連対馬20頭中19頭が5番人気以内となっている。また、21年以降の馬券圏内15頭は全て6番人気以内だから、極端な穴狙いは禁物だ?..</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345208</guid>
+      <pubDate>Sat, 17 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【秋華賞予想】勝ち馬の傾向はかなり顕著に!? 過去データから探るGI秋華賞</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=345764</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1081464" /&gt;&lt;br /&gt;　一段と秋めいて、朝晩は肌寒くなってきたこの頃…。
+
+　競馬も秋の本格モード突入で、今週末の開催は「東京・京都・新潟」の3場。GIシリーズは3歳牝馬の三冠目、秋華賞(芝2000m)が日曜日・京都競馬場でスタートする。
+
+　過去10年データを使って馬券のヒントを探るこのコーナー。今週は秋華賞にスポットを当てて馬券の傾向やヒントを探っていこう(21・22年阪神競馬場開催データも含みます)。
+
+1.勝つ1番人気馬には共通?..</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345764</guid>
+      <pubDate>Sat, 17 Oct 2026 22:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>半兄はフォーエバーヤング セレクト3億円のヤングリッチが初陣だ</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=345629</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1081503" /&gt;&lt;br /&gt;　現役最強ダート馬のフォーエバーヤングの半弟となるヤングリッチ(牡2、栗東・矢作芳人厩舎)が、日曜京都5Rの2歳新馬(芝2000m)でデビュー勝ちを狙う。
+
+　ヤングリッチは父レイデオロ、母フォエヴァーダーリング、母の父Congratsの血統。母は16年の米・サンタイネスSを制している。そして半兄のフォーエバーヤングは23年の全日本2歳優駿、24年のジャパンダートクラシック、東京大賞典、25年のサウジC、BCクラシック、26年の?..</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=345629</guid>
+      <pubDate>Sat, 17 Oct 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
