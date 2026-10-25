@@ -6,98 +6,28 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 19:27:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 22:11:45 +0000</lastBuildDate>
     <item>
-      <title>休載のお知らせ</title>
-      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59792</link>
-      <description>&lt;img src="https://cdn.netkeiba.com/img.news/style/netkeiba.ja/image/writer/column_banner_CH95_m.jpg" /&gt;&lt;br /&gt;　いつも『今週のFace』をご愛読いただき、誠にありがとうございます。
+      <title>天皇賞(秋)とファンタジーS 米国ではブリーダーズC/今週の競馬界の見どころ</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=346745</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1085624" /&gt;&lt;br /&gt;　今週は東京・京都の2場開催。重賞は2鞍が組まれている。
 
-　本日公開予定分は、都合により休載とさせていただきます。
+　中でも目玉は、11月1日(日)に東京競馬場で行われる天皇賞(秋)(3歳上・GI・芝2000m)だ。天皇賞春秋制覇を狙うダービー馬クロワデュノール(牡4、栗東・斉藤崇史厩舎)、昨年の覇者マスカレードボール(牡4、美浦・手塚貴久厩舎)、24年のダービー馬ダノンデサイル(牡5、栗東・安田翔伍厩舎)などが出走を予定している。
 
-　読者の皆様には大変ご迷惑をお掛けいたしますが、何卒ご理解くださいますようお願い申し上げます。
-
-　今後とも『今週のFace』を宜しくお願い申し上げます。
-
-netkeiba編集部</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59792</guid>
-      <pubDate>Sun, 25 Oct 2026 08:59:00 +0000</pubDate>
+　31日(土)には京都競馬場でファンタジーS(2歳...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=346745</guid>
+      <pubDate>Sun, 25 Oct 2026 21:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【天皇賞(秋)予想】トニービン5連覇、ダンジグ不振 8枠は過去10年連対ゼロ</title>
-      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59793</link>
-      <description>&lt;img src="https://cdn.netkeiba.com/img.news/style/netkeiba.ja/image/writer/column_banner_CH92_m.jpg" /&gt;&lt;br /&gt;過去5年の勝ち馬4頭は、マスカレードボール(父ドゥラメンテ)、ドウデュース(父ハーツクライ)、イクイノックス(母母父トニービン)、エフフォーリア(母父ハーツクライ)と、いずれもトニービンの血を引いている。今年の登録馬でトニービンの血を引くのは、シェイクユアハート、シャンパンカラー、タガノデュード、ネブラディスク、ホウオウビスケッツ、マスカレードボール、レガレイラ、レディネス。
+      <title>【天皇賞(秋)】川田将雅騎手が天皇賞初制覇なるか ネブラディスクで参戦だ</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=346153</link>
+      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1083166" /&gt;&lt;br /&gt;　川田将雅騎手がネブラディスク(牡4、栗東・福永祐一厩舎)で天皇賞(秋)(3歳上・GI・芝2000m)の初制覇を狙う。
 
-いっぽう不振なのがダンジ?..</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59793</guid>
-      <pubDate>Sun, 25 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【ファンタジーS予想】近2年はストームキャットのワンツー 平均馬連19340円、人気薄の前残りに注</title>
-      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59794</link>
-      <description>&lt;img src="https://cdn.netkeiba.com/img.news/style/netkeiba.ja/image/writer/column_banner_CH92_m.jpg" /&gt;&lt;br /&gt;京都芝外1400で行われた近3年は、25年はサートゥルナーリア産駒フェスティバルヒルが勝ち、ストームキャット3×5のショウナンカリスが2着。24年はストームキャット3×5・4のロードカナロア産駒ダンツエランが勝ち、モズアスコット産駒モズナナスターが2着。23年はリアルスティール産駒ドナベティが2着。ストームキャットの仕上がり早いスピードはひとまず重視すべきだろう。平均馬連19340円と荒れ模様で、モズナナスター(10人気...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59794</guid>
-      <pubDate>Sun, 25 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>競馬歴25年の経験をAIへ 一発よりも「再現できる的中」を(OK-AI)</title>
-      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59778</link>
-      <description>&lt;img alt="予想家ROOKIES" src="https://cdn.netkeiba.com/img.news/style/netkeiba.ja/image/column/umai/261025Rookies.jpg" /&gt;直近でデビューした予想家や、これからデビューを迎える予想家が自身の予想法などを紹介。『ウマい馬券』での活躍が期待されるスター候補に、本人自ら綴っていただきました！
-　はじめまして。このたび「ウマい馬券」で予想を提供させていただくことになりました。
+　川田騎手はこれまで天皇賞(秋)に16回騎乗しているが、19年のダノンプレミアムの2着が最高だ。また、天皇賞(春)には17回騎乗して15年のラストインパクトの4着が最高となっている。
 
-「OK-AI」氏
-　私の競馬歴は25年を超えます。そのキャリアの大半は、極めてオーソドックスな予想に費やしてきました。レース映像をくまなく見て、競馬データ...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59778</guid>
-      <pubDate>Sun, 25 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>10月25日の出来事一覧/新潟・東京・京都</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=346737</link>
-      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1085505" /&gt;&lt;br /&gt;　10月25日の開催(新潟・東京・京都)で発生した競走中の疾病、競走中止などの事象は下記の通り。
-
-■京都3R 2歳未勝利
-シュプレヒコール(牡2、栗東・清水久詞厩舎)
-左前挫跖のため出走取消。
-
-■新潟8R 3歳上1勝クラス
-リオンサーガ(牡3、栗東・宮地貴稔厩舎)
-スタート直後につまずいて騎手が落馬したため競走を中止。馬、国分恭介騎手ともに異状なし。
-
-(JRAのホームページより)</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=346737</guid>
-      <pubDate>Sun, 25 Oct 2026 09:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>第4回新潟競馬リーディングジョッキーは松本大輝騎手！</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=346741</link>
-      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1085558" /&gt;&lt;br /&gt;　松本大輝騎手(栗東・森秀行厩舎所属)は、第4回新潟競馬で5勝をあげ、開催リーディングジョッキーとなった。
-
-【第4回新潟競馬リーディングジョッキー順位】
-1位　松本大輝騎手(5勝、2着：1回、3着：1回)
-2位　河原田菜々騎手(5勝、2着：0回、3着：1回)
-3位　菊沢一樹騎手(4勝、2着：3回、3着：5回)
-
-【松本大輝騎手のコメント】
-「2週間と短い期間でしたが、全頭頑張って走ってくれて、騎乗の依頼をいただいて感謝し?..</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=346741</guid>
-      <pubDate>Sun, 25 Oct 2026 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【ネクストスター高知結果】リケアボレロが断然人気に応えて3連勝</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=346753</link>
-      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1085576" /&gt;&lt;br /&gt;　25日、高知競馬場で行われた第4回ネクストスター高知(2歳・重賞・ダ1400m・1着賞金1000万円)は、2番手追走から直線で抜け出した渡辺竜也騎手騎乗の1番人気リケアボレロ(セ2、高知・田中守厩舎)が、9番人気ベアマグナム(牡2、高知・田中譲二厩舎)に3馬身差をつけ優勝した。勝ちタイムは1分30秒0(不良)。
-
-　さらに3馬身差の3着に2番人気ジャックアーサー(牡2、高知・打越勇児厩舎)が入った。なお、3番人気サンサンキック(牡2...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=346753</guid>
-      <pubDate>Sun, 25 Oct 2026 09:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【帯広・北見記念結果】メムロボブサップが断然人気に応えて重賞30勝目</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=346763</link>
-      <description>&lt;img src="https://cdn.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1085621" /&gt;&lt;br /&gt;　25日、帯広競馬場で行われた第47回北見記念(重賞・ダ200m・1着賞金300万円)は、第2障害を3番手で下って前を捕らえた阿部武臣騎手騎乗の1番人気メムロボブサップ(牡10、ばんえい・坂本東一厩舎、積載重量870kg)が、3番人気クリスタルコルド(牡7、ばんえい・西弘美厩舎、積載重量860kg)に2.1秒差をつけ優勝した。勝ちタイムは2分40秒5(馬場水分1.9％)。
-
-　さらに10秒差の3着に4番人気ローランド(牡6、ばんえい・槻舘重人厩舎...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=346763</guid>
-      <pubDate>Sun, 25 Oct 2026 11:31:00 +0000</pubDate>
+　今年のパートナーはネブラディスクだ。GI・4勝の名牝リスグラシューの半弟となる血統馬。そして長く慕っている福永祐一調教?..</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=346153</guid>
+      <pubDate>Sun, 25 Oct 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
