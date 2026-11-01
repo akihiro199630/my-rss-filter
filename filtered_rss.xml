@@ -6,69 +6,121 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 01:44:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 08:28:57 +0000</lastBuildDate>
     <item>
-      <title>【天皇賞(秋)予想】秋の中距離王決定戦 逃げ馬不在の東京2000mは瞬発力勝負</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347184</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1087182" /&gt;&lt;br /&gt;　3歳以上の馬がスピードと瞬発力、そして最後の底力を競う芝中距離王決定戦。舞台となる東京競馬場芝2000mコースは1角奥に設けられたポケットからスタートする難コース。外枠を引いてしまった逃げ、先行馬、内枠を引いた差し、追い込み馬はいかにロスなく最初のコーナーを回れるかが鍵。上がり3ハロン最速馬は[3-5-1-2]で、上位3位以内馬は[9-7-4-12]。逃げ切りは至難の業だが、直線一気の追い込みも難しい。今年の場合は速い...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347184</guid>
-      <pubDate>Sat, 31 Oct 2026 21:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【米・BCターフ結果】愛国のベンヴェヌートチェッリーニがG1・2勝目 ディープモンスターは14着</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347384</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1088343" /&gt;&lt;br /&gt;　現地時間31日、アメリカのキーンランド競馬場で行われたブリーダーズカップターフ(3歳上・G1・芝2400m)は、R.ムーア騎手騎乗の2番人気ベンヴェヌートチェッリーニ(牡3、愛・A.オブライエン厩舎)が馬群の間から抜け出して優勝した。勝ちタイムは2分27秒50(良)。
-
-　2着は13番人気マップオブスターズ(セ5、仏・F.グラファール厩舎)、3着は1番人気ダイヤモンドネックレス(牝3、愛・A.オブライエン厩舎)。
-
-　日本の5番人気デ...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347384</guid>
-      <pubDate>Sat, 31 Oct 2026 21:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>天皇賞(秋)は上位人気が堅実 ルメール騎手が近10回で6勝</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=346220</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1088297" /&gt;&lt;br /&gt;　日曜東京メインは天皇賞(秋)(3歳上・GI・芝2000m)。ここでは近10回の人気別、脚質別、枠順別、年齢別、ローテーション別の成績から、レース傾向を探りたい。
-
-　人気別の成績を見ると、1番人気が【7-1-0-2】と優秀な成績を残している。続いて2〜3番人気も【3-3-3-11】と合格点。一方、2桁人気は3着が1回あるだけなので、堅いレースといえる。脚質別は先行と差しが五分。注目は逃げ馬で【0-1-3-6】の複勝率40%。しかも馬券に...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=346220</guid>
-      <pubDate>Sat, 31 Oct 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【米・BCクラシック結果】昨年の米年度代表馬ソヴリンティがV フォーエバーヤング連覇ならず5着、テーオーパスワード4着</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347385</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1088459" /&gt;&lt;br /&gt;　現地時間31日、アメリカのキーンランド競馬場で行われたブリーダーズカップクラシック(3歳上・G1・ダ2000m)は、J.アルバラード騎手騎乗の2番人気ソヴリンティ(牡4、米・W.モット厩舎)が直線で突き抜けて優勝した。勝ちタイムは2分00秒36(良)。
-
-　2着は6番人気ザプーマ(牡3、米・G.デルガド厩舎)、3着は3番人気ナイツブリッジ(牡5、米・W.モット厩舎)となった。
-
-　BCクラシック連覇のかかっていた1番人気フォーエバーヤ...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347385</guid>
-      <pubDate>Sat, 31 Oct 2026 22:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【天皇賞(秋)予想】数字が示すリアルな上位勢の姿とは？ 過去データから探るGI天皇賞(秋)</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347219</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1087348" /&gt;&lt;br /&gt;　今週の競馬は「東京・京都」の2場開催。
-
-　日曜日メインは、中距離の頂上決戦・天皇賞(秋)(GI・東京・芝2000m)が行われる。
-
-　今年は昨年の勝ち馬マスカレードボール、さらに今年すでにGIを2勝しているクロワデュノールが参戦。ほかにも上位勢を脅かす伏兵も多数。果たしてどんな結果となるのか。
-
-　過去10年データを使って馬券のヒントを見つけるこのコーナー。今週はこのGI天皇賞(秋)の狙いどころを探っていこう。...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347219</guid>
-      <pubDate>Sat, 31 Oct 2026 22:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【BCダートマイルレース後コメント】ロードフォンス横山和生騎手ら</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347451</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.www/style/netkeiba.ja/image/netkeiba.png" /&gt;&lt;br /&gt;　日本時間1日にアメリカ・キーンランド競馬場で行われたブリーダーズカップダートマイル(G1)は、地元アメリカの3歳馬ファーザーアドゥが接戦を制して勝利した。日本から出走したロードフォンスは6着だった。
+      <title>【BCクラシックレース後コメント】フォーエバーヤング坂井瑠星騎手ら</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347484</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1088657" /&gt;&lt;br /&gt;　日本時間11月1日(日)にアメリカ・キーンランド競馬場で行われたブリーダーズカップクラシック(G1、ダート2000m)は、地元アメリカの4歳馬ソヴリンティが勝利した。日本から出走したテーオーパスワードは4着、前年覇者フォーエバーヤングは5着だった。
 
 レース後の関係者のコメント
 
-6着　ロードフォンス(横山和生騎手)
-「馬自身はゲートも良いタイミングで出てくれていましたが、(アメリカの競馬は)やっぱり速いですね。上手に走ってくれたと思いますし、4コーナー...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347451</guid>
-      <pubDate>Sun, 01 Nov 2026 01:35:00 +0000</pubDate>
+4着テーオーパスワード(木村和士騎手)
+「結果的に4着という形で、すごく馬は頑張ってくれたなと思いますし、もう少し展開的に忙しいレース...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347484</guid>
+      <pubDate>Sun, 01 Nov 2026 05:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【2歳未勝利東京3Rレース後コメント】ハートノート C.デムーロ騎手</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347486</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1088705" /&gt;&lt;br /&gt;　東京3Rの2歳未勝利(芝1800m)は1番人気ハートノート(C.デムーロ騎手)が勝利した。勝ちタイムは1分47秒8(良)。3馬身半差の2着に3番人気コスモバルムンク、さらに1馬身3/4差の3着に2番人気ラニアケアが入った。
+
+　ハートノートは栗東・高野友和厩舎の2歳牝馬で、父エフフォーリア、母エピセアローム(母の父ダイワメジャー)。通算成績は3戦1勝。
+
+レース後のコメント
+
+1着　ハートノート(C.デムーロ騎手)
+「前半は少し行...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347486</guid>
+      <pubDate>Sun, 01 Nov 2026 06:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【メイクデビュー東京4Rレース後コメント】イデアブチャラティ黛弘人騎手ら</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347487</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1088702" /&gt;&lt;br /&gt;　東京4Rのメイクデビュー東京(芝1600m)は5番人気イデアブチャラティ(黛弘人騎手)が勝利した。勝ちタイムは1分36秒4(良)。クビ差の2着に7番人気アドマイヤキングスと1番人気ブラスオルケスターが同着で入った。
+
+　イデアブチャラティは美浦・中川公成厩舎の2歳牡馬で、父レッドベルジュール、母アマノチェリーラン(母の父デザートキング)。
+
+レース後のコメント
+
+1着　イデアブチャラティ(黛弘人騎手)
+「追い切りから脚...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347487</guid>
+      <pubDate>Sun, 01 Nov 2026 06:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【まほろばS結果】3歳馬レザベーションが人気に応えて差し切り勝ち</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347440</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1088732" /&gt;&lt;br /&gt;　1日、京都競馬場で行われたまほろばステークス(3歳上・オープン・芝1600m)は、好位追走から直線で前を捕らえた田口貫太騎手騎乗の1番人気レザベーション(牡3、栗東・松下武士厩舎)が、逃げ粘った2番人気スマートワイス(牡5、栗東・大久保龍志厩舎)に1.1/4馬身差をつけ優勝した。勝ちタイムは1分33秒5(良)。
+
+　さらに3/4馬身差の3着に3番人気キョウエイブリッサ(牡6、美浦・武市康男厩舎)が入った。
+
+　勝ったレザベーシ...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347440</guid>
+      <pubDate>Sun, 01 Nov 2026 06:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【天皇賞(秋)結果】ダービー馬ダノンデサイルが大外一気！ 3着続きに終止符打ちGI・3勝目！</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347441</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1088753" /&gt;&lt;br /&gt;　1日、東京競馬場で行われた第174回天皇賞(秋)(3歳上・GI・芝2000m)は、道中は後方に構え、直線で外から一気に突き抜けた戸崎圭太騎手騎乗の4番人気ダノンデサイル(牡5、栗東・安田翔伍厩舎)が、馬群の中から脚を伸ばしてきた8番人気ネブラディスク(牡4、栗東・福永祐一厩舎)に2.1/2馬身差をつけ優勝した。勝ちタイムは1分56秒7(良)。
+
+　さらに3/4馬身差の3着に3番人気レガレイラ(牝5、美浦・木村哲也厩舎)が入った。なお、...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347441</guid>
+      <pubDate>Sun, 01 Nov 2026 06:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【JRA・WIN5】本日のWIN5は的中320票、配当160万2790円</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347442</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1088750" /&gt;&lt;br /&gt;　11/1(日)のWIN5対象レースの結果は、以下の通り。
+
+的中馬番 1-1-12-7-17
+払戻金 1,602,790円
+的中票数 320票
+次回へのキャリーオーバー 0円
+
+発売票数 7,327,069票
+発売金額 732,706,900円
+
+▼1レース目　東京9R 紅葉S
+勝馬：1.ミッキーソルジャー
+人気：1番人気
+残票：2,269,310票
+
+▼2レース目　京都10R 古都S
+勝馬：1.ファームツエンティ
+人気：1番人気
+残票：545,427票
+
+▼3レース目　東京10R 秋嶺S
+...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347442</guid>
+      <pubDate>Sun, 01 Nov 2026 06:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【メイクデビュー京都5Rレース後コメント】ラスゲアード北村友一騎手ら</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347503</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1088849" /&gt;&lt;br /&gt;　京都5Rのメイクデビュー京都(芝1600m)は1番人気ラスゲアード(北村友一騎手)が勝利した。勝ちタイムは1分35秒4(良)。2馬身半差の2着に6番人気サンオブシディアン、さらに4馬身差の3着に3番人気ポジティブレンサが入った。
+
+　ラスゲアードは栗東・長谷川浩大厩舎の2歳牡馬で、父ポエティックフレア、母バイラオーラ(母の父トワイニング)。
+
+レース後のコメント
+
+1着　ラスゲアード(北村友一騎手)
+「調教の感じが良かっ...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347503</guid>
+      <pubDate>Sun, 01 Nov 2026 07:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【メイクデビュー東京5Rレース後コメント】ロイヤルヴェイズ A.プーシャン騎手ら</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347508</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1088894" /&gt;&lt;br /&gt;　東京5Rのメイクデビュー東京(芝2000m)は4番人気ロイヤルヴェイズ(A.プーシャン騎手)が勝利した。勝ちタイムは2分2秒3(良)。クビ差の2着に2番人気パルパデオ、さらに3馬身差の3着に3番人気キャナルタウンが入った。
+
+　ロイヤルヴェイズは美浦・尾関知人厩舎の2歳牡馬で、父グローリーヴェイズ、母コロナシオン(母の父キングカメハメハ)。
+
+レース後のコメント
+1着　ロイヤルヴェイズ(A.プーシャン騎手)
+「おっとりして...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347508</guid>
+      <pubDate>Sun, 01 Nov 2026 08:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
