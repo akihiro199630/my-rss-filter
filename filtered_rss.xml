@@ -6,41 +6,7 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 23:45:00 +0000</lastBuildDate>
-    <item>
-      <title>フォルトナレガーロが日曜京都にスタンバイ 半兄にはレガーロデルシエロ/関西馬メイクデビュー情報</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347636</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1089327" /&gt;&lt;br /&gt;　先週の新馬戦で除外が出たのは東京も京都も「ダート1400m」。東京は16頭、京都は13頭とかなりの頭数があふれている。決して、この距離の番組が少ないわけではなく、1200mだと短い、1600mや1800mでは長いかもという馬にとって最適な距離ということになるのが、実際に取材していての感覚。
-
-　今週から福島開催が始まるので、2鞍あるダート1700mにも頭数が集まるようなら、ダート1400mの除外頭数も少なくなりそう。ただ、年内...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347636</guid>
-      <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>エウゲニオスが日曜東京にスタンバイ 叔父には重賞馬シュヴァリエローズ/関東馬メイクデビュー情報</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347640</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1089339" /&gt;&lt;br /&gt;　今週から開催替わり。5回東京はジャパンCの翌日(11月30日)に再編競馬が実施され、計9日間の開催になる。今週のメイクデビューは土日で計4鞍。各厩舎の素質馬がスタンバイしており、どの馬が勝ち上がるのか注目だ。
-
-【11月7日(土)　東京芝1400m】
-想定メンバーはこちら
-
-◆アルモワール(牝、父サリオス、母プチノワール、美浦・森一誠厩舎)
-
-　14歳上の半姉にローブティサージュ(阪神JF)、8歳上の半姉にブランノワール(...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347640</guid>
-      <pubDate>Mon, 02 Nov 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【AI予想・アルゼンチン共和国杯】人気薄の激走にも警戒!? 人工知能が導き出した本命候補3頭</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347633</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1089304" /&gt;&lt;br /&gt;　本記事ではnetkeibaオリジナルAIが推奨する本命候補3頭を特筆すべき過去の傾向とともにご紹介します。
-
-　今週の平地重賞競走は土曜日に京王杯2歳S(GII)、日曜日にアルゼンチン共和国杯(GII)とみやこS(GIII)が行われます。その中から東京競馬場で行われるアルゼンチン共和国杯を取り上げます。まずは過去の傾向から。
-
-　過去10年のアルゼンチン共和国杯における、前走4角の位置別成績を見ていきます。過去10年のアルゼン...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347633</guid>
-      <pubDate>Mon, 02 Nov 2026 10:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Nov 2026 04:44:42 +0000</lastBuildDate>
     <item>
       <title>【京王杯2歳S展望】関西馬インパルスドライブの無傷2連勝に期待</title>
       <link>https://news.netkeiba.com/?pid=news_view&amp;no=347606</link>
@@ -51,6 +17,16 @@
 　過去10年のデータを所属調教師別で見ると、栗東所属馬と美浦所属馬で顕著な差が出ている。栗東所属馬は[8-7-3-36]で複勝率33.3％、さらに...</description>
       <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347606</guid>
       <pubDate>Mon, 02 Nov 2026 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【みやこS予想】みやこSの6歳以上馬</title>
+      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59840</link>
+      <description>&lt;img alt="回収率向上大作戦" src="https://cdnv2.netkeiba.com/img.news/style/netkeiba.ja/image/column/suda/261103suda1.jpg" style="width: 100%;" /&gt;年長馬が活躍できる傾向
+　ダート重賞は芝重賞よりも年長馬が活躍できる傾向にあると思うのだが、みやこSの過去10年(JBCを京都で施行した年はみやこSがなかったので9回)の年齢別成績を見るとまさにそのような形になっている。
+
+　年齢別成績で3歳から順に複勝率を見ると、18.8％、21.2％、19.6％、20.0％、25.0％、12.5％。さすがに8歳馬は8頭中1頭しか馬券に絡んでいないが、7歳馬は[0-0-3-9]とはいえ複勝率25.0％で3〜6歳...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59840</guid>
+      <pubDate>Tue, 03 Nov 2026 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
