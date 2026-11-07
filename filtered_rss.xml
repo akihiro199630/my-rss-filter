@@ -6,43 +6,7 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Nov 2026 09:27:40 +0000</lastBuildDate>
-    <item>
-      <title>【JRA・WIN5】本日のWIN5は的中1684票、配当17万6190円</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348017</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1091117" /&gt;&lt;br /&gt;　11/7(土)のWIN5対象レースの結果は、以下の通り。
-
-的中馬番 10-5-12-9-3
-払戻金 176,190円
-的中票数 1,684票
-次回へのキャリーオーバー 0円
-
-発売票数 4,238,691票
-発売金額 423,869,100円
-
-▼1レース目　東京10R ノベンバーS
-勝馬：10.ボウウィンドウ
-人気：1番人気
-残票：1,700,607票
-
-▼2レース目　京都10R 貴船S
-勝馬：5.ルクスデイジー
-人気：2番人気
-残票：399,241票
-
-▼3レース目　福島11R キビタキ...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348017</guid>
-      <pubDate>Sat, 07 Nov 2026 06:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【室町S結果】2番人気エコロレーヴが快勝 オープン2勝目</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348016</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1091218" /&gt;&lt;br /&gt;　7日、京都競馬場で行われた室町ステークス(3歳上・オープン・ダ1200m)は、2番手から先頭に立ってリードを広げた川田将雅騎手騎乗の2番人気エコロレーヴ(牡3、栗東・森秀行厩舎)が、5番人気ファムエレガンテ(牝4、栗東・中村直也厩舎)に1.3/4馬身差をつけ優勝した。勝ちタイムは1分10秒4(良)。
-
-　さらに1.1/4馬身差の3着に8番人気ジョーメッドヴィン(牡5、栗東・清水久詞厩舎)が入った。なお、1番人気ゼットエール(牡4、栗...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348016</guid>
-      <pubDate>Sat, 07 Nov 2026 07:05:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Nov 2026 15:59:27 +0000</lastBuildDate>
     <item>
       <title>【木津川特別レース後コメント】ランスオブヒーロー松山弘平騎手ら</title>
       <link>https://news.netkeiba.com/?pid=news_view&amp;no=348054</link>
@@ -198,7 +162,7 @@
     <item>
       <title>【AR共和国杯前日オッズ】ミラージュナイトが5.4倍で1番人気</title>
       <link>https://news.netkeiba.com/?pid=news_view&amp;no=348063</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1091221" /&gt;&lt;br /&gt;　11月8日に東京競馬場で行われる第64回アルゼンチン共和国杯(3歳上・GII・芝2500m)の前日オッズがJRAより発表された。
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1091257" /&gt;&lt;br /&gt;　11月8日に東京競馬場で行われる第64回アルゼンチン共和国杯(3歳上・GII・芝2500m)の前日オッズがJRAより発表された。
 
 　単勝オッズ1番人気には、札幌日経賞を勝ったミラージュナイト(牡4、栗東・杉山佳明厩舎)が支持された。各馬の単勝オッズは以下の通り。
 
@@ -215,7 +179,7 @@
     <item>
       <title>【みやこS前日オッズ】ロードクロンヌが4.8倍で1番人気</title>
       <link>https://news.netkeiba.com/?pid=news_view&amp;no=348064</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1091227" /&gt;&lt;br /&gt;　11月8日に京都競馬場で行われる第16回みやこステークス(3歳上・GIII・ダ1800m)の前日オッズがJRAより発表された。
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1091260" /&gt;&lt;br /&gt;　11月8日に京都競馬場で行われる第16回みやこステークス(3歳上・GIII・ダ1800m)の前日オッズがJRAより発表された。
 
 　単勝オッズ1番人気には、プロキオンSと平安Sを勝っているロードクロンヌ(牡5、栗東・四位洋文厩舎)が支持された。各馬の単勝オッズは以下の通り。
 
@@ -256,6 +220,17 @@
 グラニットピーク(セ6、...</description>
       <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348067</guid>
       <pubDate>Sat, 07 Nov 2026 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AI予想・AR共和国杯】意外にも前走好走馬に良績が集中！ 過去の傾向からも期待ができる人工知能の本命馬</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347989</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1090937" /&gt;&lt;br /&gt;　今週の日曜日は、東京競馬場でアルゼンチン共和国杯(GII)が行われます。
+
+　過去10年のアルゼンチン共和国杯は、すべてハンデ戦として施行されています。ハンデ戦は、各馬の実績や能力に応じて斤量が決められるレースです。実績上位馬は重い斤量を背負う一方、実績の乏しい馬は軽い斤量で出走できるため、各馬の能力差が縮まり、人気薄の馬にも好走のチャンスが生まれやすい特徴があります。
+
+　アルゼンチン共和国杯も例...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347989</guid>
+      <pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
