@@ -6,23 +6,7 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 22:35:14 +0000</lastBuildDate>
-    <item>
-      <title>【デイリー杯2歳S想定馬・騎手】キューティボンド、トップチェッカーなど12頭</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=347904</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1090879" /&gt;&lt;br /&gt;　11月14日(土)に京都競馬場で行われるデイリー杯2歳ステークス(2歳・GII・芝1600m)。
-
-　現時点では、キューティボンド、トップチェッカー、ブラッドバローズなど、12頭が登録を予定している。
-
-　フルゲートは18頭。想定馬は以下の通り。
-
-※各馬とも出走予定の段階で、変更の可能性がございます。なお、netkeiba独自の想定で、確定情報ではありませんので、ご了承ください。
-
-インカルナータ　北村友一
-キューティボ...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347904</guid>
-      <pubDate>Fri, 06 Nov 2026 08:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Nov 2026 02:28:38 +0000</lastBuildDate>
     <item>
       <title>【AR共和国杯予想】レッドバンデは条件に合致 菊花賞5着のスタミナに期待</title>
       <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59862</link>
@@ -111,6 +95,17 @@
       <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1090774" /&gt;&lt;br /&gt;　9月の阪神ジャンプS、10月の東京HJからの流れを汲む障害の別定重賞で、昨年のフェーレンベルクのように、ここから暮れの中山大障害へと挑む馬もいない事はないが、ややローテーションがきつくなるので年内最終戦とする馬も多い。舞台となる京都競馬場3170mの障害コースは、ダートコースの内側に設けられている障害コースを2周と少々。その間、通称「3段飛び」といわれる独特のバンケット障害(高低差0.8m、長さ15.9m)を含む15...</description>
       <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=347960</guid>
       <pubDate>Fri, 06 Nov 2026 21:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【AR共和国杯予想】現在10週連続プラス収支の快進撃！ 過小評価された馬を見抜く注目の予想家に丸乗り</title>
+      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59849</link>
+      <description>&lt;img alt="この予想家が熱い" src="https://cdnv2.netkeiba.com/img.news/style/netkeiba.ja/image/column/umai/261105atui1.jpg" /&gt;　みなさま、ご機嫌いかがでしょうか？ 毎週予想家を放浪し、丸乗りを続ける運営担当Mでございます。
+
+　秋競馬が開幕してから、あっという間に2か月が経過。みなさまの馬券成績はどうでしょうか？ 好調を維持している方もいれば、なかなか思うような結果が出ていない方もいるのではないでしょうか？
+
+　先週までの秋競馬では、雨の影響を受ける週も少なくなく、例年以上に難しい開催が続いている印象です。前週とは傾向が...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59849</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
