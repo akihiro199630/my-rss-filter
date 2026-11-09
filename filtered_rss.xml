@@ -6,68 +6,26 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Nov 2026 20:54:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:22:56 +0000</lastBuildDate>
     <item>
-      <title>【河北新報杯レース後コメント】ハイクオリティ荻野極騎手ら</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348178</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.www/style/netkeiba.ja/image/netkeiba.png" /&gt;&lt;br /&gt;　福島10Rの河北新報杯(3歳以上2勝クラス・ダート1700m)は3番人気ハイクオリティ(荻野極騎手)が勝利した。勝ちタイムは1分43秒8(稍重)。アタマ差の2着に1番人気アラナコア、さらにクビ差の3着に2番人気ホウショウルクスが入った。
+      <title>オークス馬激突のエリザベス女王杯など3重賞/今週の競馬界の見どころ</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348164</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1091764" /&gt;&lt;br /&gt;　今週は東京・京都・福島の3場開催。重賞は3鞍が組まれている。
 
-　ハイクオリティは栗東・今野貞一厩舎の4歳牡馬で、父リアルスティール、母フジミ(母の父ロードカナロア)。通算成績は20戦3勝。
+　中でも目玉は、15日(日)に京都競馬場で行われるエリザベス女王杯(3歳上・牝・GI・芝2200m)だ。昨年のオークス馬で前哨戦のアイルランドTを制したカムニャック(牝4、栗東・友道康夫厩舎)、今年のオークス馬ジュウリョクピエロ(牝3、栗東・寺島良厩舎)、今年のオークス3着馬ラフターラインズ(牝3、美浦・小笠倫弘厩舎)などが出走を予定している。
 
-レース後のコメント
-
-1着　ハイクオリティ(荻野極騎手)
-...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348178</guid>
-      <pubDate>Sun, 08 Nov 2026 10:58:00 +0000</pubDate>
+　14日(...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348164</guid>
+      <pubDate>Sun, 08 Nov 2026 21:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【錦秋Sレース後コメント】ワイドクリーガー佐々木大輔騎手ら</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348180</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1091800" /&gt;&lt;br /&gt;　東京10Rの錦秋ステークス(3歳以上3勝クラス・ダート1600m)は9番人気ワイドクリーガー(佐々木大輔騎手)が勝利した。勝ちタイムは1分36秒9(良)。アタマ差の2着に2番人気セギレエルビエント、さらに3/4馬身差の3着に7番人気メイショウタムシバが入った。
+      <title>アーモンドアイの母が繰り上がりでGI初制覇 06年エリザベス女王杯を振り返る</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=346975</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1089474" /&gt;&lt;br /&gt;　後にアーモンドアイの母となるフサイチパンドラが、GI初制覇を果たしたのは06年エリザベス女王杯だった。しかし、先頭でゴールを駆け抜けたのは別の馬。降着によって勝ち馬が入れ替わるという異例の結末となった一戦を振り返る。
 
-　ワイドクリーガーは栗東・奥村豊厩舎の4歳牡馬で、父サトノクラウン、母ピュアアモーレ(母の父マツリダゴッホ)。通算成績は18戦4勝。
-
-レース後のコメント
-
-1着　ワ...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348180</guid>
-      <pubDate>Sun, 08 Nov 2026 11:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【清水Sレース後コメント】アヴィオン松山弘平騎手ら</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348182</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1091805" /&gt;&lt;br /&gt;　京都10Rの清水ステークス(3歳以上3勝クラス・芝1600m)は1番人気アヴィオン(松山弘平騎手)が勝利した。勝ちタイムは1分35秒5(良)。3/4馬身差の2着に2番人気ブルーマエストロ、さらに半馬身差の3着に5番人気スライビングロードが入った。
-
-　アヴィオンは栗東・岡田稲男厩舎の3歳牝馬で、父Night of Thunder、母シヴォリエール(母の父Sea The Stars)。通算成績は6戦4勝。
-
-レース後のコメント
-
-1着　アヴィオン(松山弘平...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348182</guid>
-      <pubDate>Sun, 08 Nov 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【みちのくSレース後コメント】ギリーズボール杉原誠人騎手ら</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348183</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.www/style/netkeiba.ja/image/netkeiba.png" /&gt;&lt;br /&gt;　福島11Rのみちのくステークス(3歳以上オープン・芝1200m)は2番人気ギリーズボール(杉原誠人騎手)が勝利した。勝ちタイムは1分10秒3(稍重)。半馬身差の2着に10番人気シンバーシア、さらに3/4馬身差の3着に5番人気ベイビーキッスが入った。
-
-　ギリーズボールは美浦・手塚貴久厩舎の3歳牝馬で、父エピファネイア、母フロアクラフト(母の父フジキセキ)。通算成績は5戦3勝。
-
-レース後のコメント
-
-1着　ギリーズボール(杉原...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348183</guid>
-      <pubDate>Sun, 08 Nov 2026 11:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【帯広・クインC結果】ホクセイヒラリが断然人気に応えて圧勝</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348184</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1091808" /&gt;&lt;br /&gt;　8日、帯広競馬場で行われた第51回クインC(牝・重賞・ダ200m・1着賞金250万円)は、第2障害を先頭で下って後続を離した鈴木恵介騎手騎乗の1番人気ホクセイヒラリ(牝4、ばんえい・藤本匠厩舎、積載重量690kg)が、4番人気ホクショウサクラ(牝4、ばんえい・坂本東一厩舎、積載重量690kg)に14.1秒差をつけ優勝した。勝ちタイムは1分52秒3(馬場水分1.8％)。
-
-　さらに3,2秒差の3着に5番人気パワフルクィーン(牝4、ばんえい・岩本利...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348184</guid>
-      <pubDate>Sun, 08 Nov 2026 11:37:00 +0000</pubDate>
+　フサイチパンドラは父サンデーサイレンス、母ロッタレース、母の父Nureyevの血統。世界各国でG1勝ち馬を輩出している名牝系の出身だった。デビュー当初から素質を高く評価され、牝馬三冠戦線...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=346975</guid>
+      <pubDate>Sun, 08 Nov 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
