@@ -6,17 +6,7 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 10:05:49 +0000</lastBuildDate>
-    <item>
-      <title>【エリザベス女王杯予想】牝馬の中長距離条件ではハービン産駒・ステゴ系・キンカメ産駒・キズナ産駒が特注血統</title>
-      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59874</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/style/netkeiba.ja/image/writer/column_banner_CH121_m.jpg" /&gt;&lt;br /&gt;昨年も1番人気レガレイラの他は特注血統の該当馬2頭が好走＆激走
-　牝馬限定戦ではオークスに次いで2番目に長い距離設定である2200mで行われるエリザベス女王杯。
-
-　基本的に牡馬よりもスタミナ面で劣り距離適性が短めに出る牝馬にとって、この2200mというのはイレギュラーな距離設定になります。そんな牝馬同士による中長距離のレースでは、多数の走り切れない馬と、一部の走り切れる馬という距離適性の面での差がダイレク...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59874</guid>
-      <pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 18:14:55 +0000</lastBuildDate>
     <item>
       <title>【川崎・ローレル賞注目馬】来年の南関牝馬クラシック候補が参戦 素質馬13頭が川崎マイルで激突</title>
       <link>https://news.netkeiba.com/?pid=news_view&amp;no=348358</link>
@@ -35,6 +25,24 @@
 (取材・構成＝森...</description>
       <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59882</guid>
       <pubDate>Wed, 11 Nov 2026 09:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【デイリー杯2歳S】歴代最多6勝の武豊騎手 スマートピナクルで7年ぶり戴冠なるか</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348245</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1091931" /&gt;&lt;br /&gt;　武豊騎手がスマートピナクル(牝2、栗東・石橋守厩舎)で、自身の最多勝記録を更新するデイリー杯2歳ステークス(2歳・GII・芝1600m)の7年ぶり7勝目を狙う。
+
+　武豊騎手はこれまでデイリー杯2歳Sに27回騎乗している。89年にヤマニングローバルで初制覇。その後も96年にシーキングザパール、98年にエイシンキャメロン、06年にオースミダイドウ、15年にエアスピネル、19年にレッドベルジュールで制し、歴代最多となる6勝を挙げ...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348245</guid>
+      <pubDate>Wed, 11 Nov 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【川崎・ロジータ記念結果】ヘスペリスが人気に応え重賞2勝目を挙げる</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348455</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1092835" /&gt;&lt;br /&gt;　11日、川崎競馬場で行われた第37回ロジータ記念(3歳・牝・重賞・ダ2100m・1着賞金2200万円)は、2番手から3角手前で先頭に立った御神本訓史騎手騎乗の1番人気ヘスペリス(牝3、大井・渡辺和雄厩舎)が、好位から脚を伸ばした2番人気ブレイズエッジ(牝3、船橋・川島正一厩舎)に2馬身差をつけ優勝した。勝ちタイムは2分21秒7(不良)。
+
+　さらに4馬身差の3着に4番人気ウィルラウス(牝3、北海道・小国博行厩舎)が入った。なお、3番...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348455</guid>
+      <pubDate>Wed, 11 Nov 2026 11:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
