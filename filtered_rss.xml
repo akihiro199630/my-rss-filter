@@ -6,81 +6,26 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 18:54:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:26:59 +0000</lastBuildDate>
     <item>
-      <title>【マイルCS予想】Cコース京都は「末脚重視」のトラックバイアス</title>
-      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59914</link>
-      <description>&lt;img alt="馬場虎太郎" src="https://cdnv2.netkeiba.com/img.news/style/netkeiba.ja/image/column/baba/261117baba1.jpg" style="width: 100%;" /&gt;▲昨年はジャンタルマンタルが優勝(c)netkeiba
-馬場虎太郎が勝負レース予想をウマい馬券にて公開！殿堂入り予想家としてマイルCSで渾身の印を打つ！こちらからご覧いただけます
-　今週からの京都芝はCコース替わり。
+      <title>【マイルCS展望】3歳マイル王ロデオドライブに注目</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348960</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1095149" /&gt;&lt;br /&gt;　秋のマイル王決定戦、マイルCS。京都外回り1600mが舞台となり、スピードだけでなくスタミナや総合力が問われる一戦だ。今年も各路線からGI馬を含む実力馬が集結し、激戦が予想される。過去のデータを紐解き、傾向を探っていく。
 
-　改修された2023年以降のマイルチャンピオンシップでCコースを使用して施行されたのは2023年と2025年の2回。
+1.若い世代が中心
 
-　2023年は最初のコーナーを9番手以下で通過した馬の1〜3着独占。5番人気1着馬は二桁位置取...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59914</guid>
-      <pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
+　過去10年のマイルCSでは、4歳馬が[4-5-4-34]で複勝率27.7％をマーク。3歳馬は[3-1-2-24]で複勝率は20.0％だが、勝率10.0％は4歳馬の8.5％を上回る。一方、5歳馬は複勝率1...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348960</guid>
+      <pubDate>Tue, 17 Nov 2026 21:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【マイルCS】もう銀メダルはいらない！ GI・2着4回のガイアフォースが“13度目の正直”なるか</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348394</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1095178" /&gt;&lt;br /&gt;　GIで2着4回のガイアフォース(牡7、栗東・杉山晴紀厩舎)が、マイルチャンピオンシップ(3歳上・GI・芝1600m)で悲願のGI初制覇を狙う。
+      <title>サンデーサイレンス初年度産駒の大器 ジェニュインが制したマイルCSから30年</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348396</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1095428" /&gt;&lt;br /&gt;　サンデーサイレンスの初年度産駒だったジェニュインが、96年のマイルCSを制してから30年が経つ。95年の皐月賞で父に初のクラシックタイトルを届け、日本ダービーと天皇賞(秋)でも2着に好走。そんな大器が2つ目のビッグタイトルを手にした一戦を振り返る。
 
-　ガイアフォースは父キタサンブラック、母ナターレ、母の父クロフネの血統。母は川崎に所属。やはり芝ダートの双方で走り、11年の戸塚記念など重賞を5勝した。母系を遡れば、01年のスプリングSなど重賞2勝のアグネスゴールド、00年の弥生賞を制したフサイチゼノン、ダート重賞を8勝したリ...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348394</guid>
-      <pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「僕も頑張らんと」──思い出の血統・バラ一族と“推し”武豊騎手のエリザベス女王杯制覇に刺激</title>
-      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59913</link>
-      <description>&lt;img alt="太論" src="https://cdnv2.netkeiba.com/img.news/style/netkeiba.ja/image/column/komaki/261117_1.jpg" style="width: 100%;" /&gt;▲ラフターラインズ(c)netkeiba
-マルカイグアスとの対決を楽しみにしていたエコロクラージュの復帰戦。結果は、ライバルに7馬身とハナ差も千切られた3着に終わり、改めてエコロクラージュという馬の難しさに言及した小牧騎手。今週の『太論』では、そのエコロクラージュの一戦をはじめ、先週のレースを厳選して回顧。また、ローズバドの曾孫であるラフターラインズが勝利したエリザベス女王杯についても、自身の見解を語ってく...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59913</guid>
-      <pubDate>Tue, 17 Nov 2026 09:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【福島記念予想オッズ】マリアイリダータが予想1番人気</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=349058</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1095481" /&gt;&lt;br /&gt;　11月21日に福島競馬場で行われる、第62回福島記念(3歳上・GIII・芝2000m)に23頭が登録。競馬ファンの予想などを元にnetkeibaが独自に開発したAIによる予想オッズは17日時点で以下のようになっている。
-
-　チャレンジC4着からの巻き返しを期すマリアイリダータ(牝4、美浦・田中博康厩舎)が単勝4.5倍で1番人気に推されており、昨年のホープフルSで2着だったフォルテアンジェロ(牡3、美浦・上原佑紀厩舎)、中山金杯勝ちの実績...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=349058</guid>
-      <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【東スポ杯2歳S予想オッズ】ショウナンガレオンが予想1番人気</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=349057</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1095478" /&gt;&lt;br /&gt;　11月23日に東京競馬場で行われる、第31回東京スポーツ杯2歳ステークス(2歳・GII・芝1800m)に12頭が登録。競馬ファンの予想などを元にnetkeibaが独自に開発したAIによる予想オッズは17日時点で以下のようになっている。
-
-　札幌2歳Sを圧勝したショウナンガレオン(牡2、美浦・加藤士津八厩舎)が単勝2.0倍で1番人気に推されており、リバティアイランドの半弟ダノンダックス(牡2、美浦・田中博康厩舎)、芙蓉Sで3着のジョドレル...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=349057</guid>
-      <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【マイルCS予想オッズ】エンブロイダリーが予想1番人気</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=349056</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1095475" /&gt;&lt;br /&gt;　11月22日に京都競馬場で行われる、第43回マイルチャンピオンシップ(3歳上・GI・芝1600m)に21頭が登録。競馬ファンの予想などを元にnetkeibaが独自に開発したAIによる予想オッズは17日時点で以下のようになっている。
-
-　今年のヴィクトリアマイルなどGI・3勝を挙げているエンブロイダリー(牝4、美浦・森一誠厩舎)が単勝3.5倍で1番人気に推されており、今年のNHKマイルCを制したロデオドライブ(牡3、美浦・辻哲英厩舎)、安田...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=349056</guid>
-      <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【マイルCS】田口貫太騎手がGI初制覇なるか ニュージーランドT覇者のレザベーションで挑む</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348395</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1095196" /&gt;&lt;br /&gt;　4年目の田口貫太騎手が、マイルチャンピオンシップ(3歳上・GI・芝1600m)のレザベーション(牡3、栗東・松下武士厩舎)でJRA・GI初制覇を狙う。
-
-　田口騎手は03年12月10日生まれ、岐阜県出身の22歳。父・輝彦さんは地方・笠松の元騎手で調教師、母・広美氏も同じく元騎手という競馬一家の出身。23年に栗東・大橋勇樹厩舎からデビューした。JRA通算2793戦153勝。ルーキーイヤーはJRAで同期最多となる35勝を挙げて、JRA賞の最多...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348395</guid>
-      <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【金沢ヤングチャンピオン結果】ハジマリノアイズが重賞連勝を飾る</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=349125</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1095529" /&gt;&lt;br /&gt;　17日、金沢競馬場で行われた第29回金沢ヤングチャンピオン(2歳・重賞・ダ1700m・1着賞金400万円)は、中団から脚を伸ばした加藤翔馬騎手騎乗の2番人気ハジマリノアイズ(牝2、金沢・加藤和義厩舎)が、2番手から3角手前で先頭に立った1番人気ヤマミアオカゼ(牡2、金沢・中川雅之厩舎)に3馬身差をつけ優勝した。勝ちタイムは1分50秒2(不良)。
-
-　さらに2.1/2馬身差の3着に10番人気カリーノソフィア(牝2、金沢・佐藤茂厩舎)が入...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=349125</guid>
-      <pubDate>Tue, 17 Nov 2026 12:01:00 +0000</pubDate>
+　ジェニュインは父サンデーサイレンス、母クルーピアレディー、母の父What Luckの血統。社台ファームの生産馬で、94年10月に美浦・松山康久厩舎からデビューした。3...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348396</guid>
+      <pubDate>Tue, 17 Nov 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
