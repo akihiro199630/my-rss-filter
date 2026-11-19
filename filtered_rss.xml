@@ -6,56 +6,17 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 18:31:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:51:53 +0000</lastBuildDate>
     <item>
-      <title>【マイルCS】セン馬が勝てば24年ぶり2頭目 フランスのエルデナリに要注目だ</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348393</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1095469" /&gt;&lt;br /&gt;　今年のムーランドロンシャン賞覇者のエルデナリ(セ3、仏・F.グラファール厩舎、Erdenali)が、24年ぶり2頭目となるセン馬によるマイルチャンピオンシップ(3歳上・GI・芝1600m)の制覇を目指す。
+      <title>【東京スポ杯2歳S展望】札幌2歳S圧勝のショウナンガレオンが中心</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348962</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1095146" /&gt;&lt;br /&gt;　翌年のクラシック、さらにはその先の古馬GI戦線を占う上で重要な2歳重賞、東京スポーツ杯2歳S。東京競馬場の芝1800mという、スタミナとスピード双方の能力が問われる舞台設定で、コントレイルやイクイノックスといった歴史的名馬もここをステップに羽ばたいていった。今年も素質馬が集結し、注目の一戦となる。
 
-　エルデナリはフランス生まれで、父カラヴァッジオ、母Erdana、母の父Sea The Starsの血統。父は欧州のG1・2勝馬。23年からは北海道のJBBA静内種馬場で繋養されている。また、祖母のエルヴェディヤ(Ervedya)は15年の仏1000ギニー...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348393</guid>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【マイルCS予想】安田記念≒新装京都マイルCS≠旧京都マイルCS</title>
-      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59875</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/style/netkeiba.ja/image/writer/column_banner_CH121_m.jpg" /&gt;&lt;br /&gt;昨年は安田記念とマイルCSで同じ馬同士のワンツー決着
-　JRAにおける春秋の芝マイル路線の頂上決戦として位置付けられる「安田記念⇔マイルCS」では、主に「東京芝1600m⇔京都芝1600m」という舞台設定の違いによる要求適性の食い違いから、好走する馬の顔触れはガラリと入れ替わるという“非直結”の傾向が以前までハッキリと存在していました。
+1.好位で立ち回れるタイプが有利
 
-　実際に09年から19年までの11年間の安田記念で3着以内に好走した馬の同年マイルC...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59875</guid>
-      <pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【マイルCS】史上10頭目の偉業なるか シックスペンスが春秋マイルGI同年制覇に挑む</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=348514</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1093030" /&gt;&lt;br /&gt;　今年の安田記念覇者のシックスペンス(牡5、美浦・田中博康厩舎)が、マイルチャンピオンシップ(3歳上・GI・芝1600m)で史上10頭目の春秋マイルGI同年制覇を目指す。
-
-　シックスペンスは父キズナ、母フィンレイズラッキーチャーム、母の父Twirling Candyの血統。母は米のG1勝ち馬。馬主は(有)キャロットファーム。生産者は北海道安平町のノーザンファーム。馬名の意味由来は「イギリス旧硬貨の名。幸運をもたらすお守り。母名...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348514</guid>
-      <pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【ユーザー質問】「あの馬には騙された！」非力な印象を覆したマルキアの激走と、12年越しの運命的な再会</title>
-      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59916</link>
-      <description>&lt;img alt="ミルコレビュー" src="https://cdnv2.netkeiba.com/img.news/style/netkeiba.ja/image/column/mirco_review/261118_1.jpg" style="width: 100%;" /&gt;▲マルキアの激走について振り返ります(c)netkeiba
-今回は馬体重わずか386キロで新馬戦を快勝したマルキアについて。調教の非力さに不安を抱きつつも「ゲートが開けば1着を目指す」と臨んだレースは、想像を絶する走りで「騙された！」と大興奮。
-
-さらに、血統を調べて発覚した母馬との“運命的すぎる繋がり”まで、たっぷり語ります！
-　　
-(取材・構成＝森カオル)
-Q「10月の新馬戦を勝ったマルキアについて質問です。デビ...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59916</guid>
-      <pubDate>Wed, 18 Nov 2026 09:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【大井・ハイセイコー記念結果】ケテンパッションが逃げ切って重賞初制覇を飾る</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=349215</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1095865" /&gt;&lt;br /&gt;　18日、大井競馬場で行われた第59回ハイセイコー記念(2歳・重賞・ダ1600m・1着賞金3000万円)は、逃げた笹川翼騎手騎乗の1番人気ケテンパッション(牡2、大井・上杉昌宏厩舎)が、中団から直線で脚を伸ばした3番人気ブラフキャッチ(牡2、川崎・高月賢一厩舎)にクビ差をつけ優勝した。勝ちタイムは1分41秒3(不良)。
-
-　さらに3差の3着に9番人気ケンシリウス(牡2、浦和・繁田健一厩舎)が入った。なお、2番人気タルガフローリオ(牡...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=349215</guid>
-      <pubDate>Wed, 18 Nov 2026 11:41:00 +0000</pubDate>
+　過去10年の前走4コーナー通過順位別の成績を見ると、前走4コーナー1番手...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=348962</guid>
+      <pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
