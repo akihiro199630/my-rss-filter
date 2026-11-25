@@ -6,34 +6,47 @@
     <description>netkeiba.comは国内最大級の競馬情報サイトです。JRA全レースの出馬表やオッズ・予想、ニュース、コラム、競走馬50万頭以上収録の競馬データベース、地方競馬、POG、予想大会、コミュニティなどがご利用いただけます。</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 02:52:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:55:34 +0000</lastBuildDate>
     <item>
-      <title>【京都2歳S展望】牝馬ネーロノワールに注目</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=349809</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1098344" /&gt;&lt;br /&gt;　クラシック戦線を占う上で重要な一戦となる京都2歳S。京都芝2000mという舞台は、ごまかしの利かない底力が問われるコースだ。過去10年のデータを見ても、ここでの好走馬が後のGI戦線で活躍するケースは多く、今年も将来性豊かな若駒たちが集結した。
+      <title>【浦和記念結果】イッテラッシャイが3馬身差逃げ切りV！重賞2勝目を挙げる</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=349921</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1098771" /&gt;&lt;br /&gt;　25日、浦和競馬場で行われた第47回浦和記念(3歳上・JpnII・ダ2000m・1着賞金4000万円)は、逃げた戸崎圭太騎手騎乗の1番人気イッテラッシャイ(牡3、美浦・斉藤誠厩舎)が、2番手から粘りこんだ3番人気ナルカミ(牡4、美浦・田中博康厩舎)に3馬身差をつけ優勝した。勝ちタイムは2分05秒3(良)。
 
-1.前走4コーナーで好位の馬が好成績
-
-　前走の第4コーナーでの位置取りに注目すると、1番手の馬は[0-0-1-14]で複勝率が6.7％と苦戦傾向にあるのに対し、2-5番手で回って...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=349809</guid>
-      <pubDate>Tue, 24 Nov 2026 21:00:00 +0000</pubDate>
+　さらに1馬身差の3着に4番人気モックモック(牡6、栗東・寺島良厩舎)が入った。なお、2番人気メイショウズイウン(牡4、栗東・本田優...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=349921</guid>
+      <pubDate>Wed, 25 Nov 2026 08:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>【阪神JF想定】ジーティーマイカやプルヴィナルなど18頭</title>
-      <link>https://news.netkeiba.com/?pid=news_view&amp;no=349828</link>
-      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1098347" /&gt;&lt;br /&gt;　12月13日(日)に阪神競馬場で行われる阪神ジュベナイルフィリーズ(2歳牝・GI・芝1600m)。
+      <title>公開日変更のお知らせ</title>
+      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59952</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/style/netkeiba.ja/image/writer/column_banner_CH85_m.jpg" /&gt;&lt;br /&gt;　いつも『Road to No.1』をご愛読いただき、誠にありがとうございます。
+ 
+　本日公開予定分は、取材スケジュールの都合により公開日を変更とさせていただきます。
+ 
+　読者の皆様には大変ご迷惑をお掛けいたしますが、何卒ご理解くださいますようお願い申し上げます。
+ 
+　今後とも『Road to No.1』を宜しくお願い申し上げます。
+ 
+ netkeiba編集部</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59952</guid>
+      <pubDate>Wed, 25 Nov 2026 08:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【ジャパンC予想】海外馬の取捨は〇〇〇実績の有無に注目</title>
+      <link>https://news.netkeiba.com/?pid=column_view&amp;cid=59939</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/style/netkeiba.ja/image/writer/column_banner_CH121_m.jpg" /&gt;&lt;br /&gt;05年以降のジャパンCで〇〇〇実績有りの欧州産馬は掲示板内率45％⇔それ以外は掲示板内率5％
+　ジャパンCは「世界に通用する強い馬づくり」をスローガンに1981年に創設されたレースです。その創設当初は海外馬(特に欧州馬)が圧倒的優勢でしたが、1998年からは形勢一変して日本馬が断然優勢となり、そして2009年にウオッカが日本馬の牝馬として初優勝して以降は日本馬の中でも牝馬の活躍が顕著となり、2014年にエピファネイアが6...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=column_view&amp;cid=59939</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>26日に浦和競馬場で「第1回サザンスタースプリント」 3歳秋の短距離王者決定戦にフルゲート14頭</title>
+      <link>https://news.netkeiba.com/?pid=news_view&amp;no=349378</link>
+      <description>&lt;img src="https://cdnv2.netkeiba.com/img.news/?pid=news_img&amp;amp;id=1098631" /&gt;&lt;br /&gt;　11月26日(木)に浦和競馬場で、サザンスタースプリントが行われる。浦和、船橋、川崎の3場持ち回りで実施される3歳限定の短距離重賞で、記念すべき第1回は浦和ダート1400mが舞台となる。
 
-　24日時点では、ジーティーマイカやプルヴィナル、リスグロワールなど18頭が登録を予定している。
-
-　フルゲートは18頭。想定馬は以下の通り。
-
-※各馬とも出走予定の段階で、変更の可能性がございます。なお、netkeiba独自の想定で、確定情報ではありませんので、ご了承ください。
-
-イモージェン
-コスモハナミズキ
-ジーティ...</description>
-      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=349828</guid>
-      <pubDate>Wed, 25 Nov 2026 02:10:00 +0000</pubDate>
+　同レースは春のネクストスター東日本に比肩する一戦として、「3歳秋の短距離王者決定戦」に位置づけられた。これまで南関東では、秋に3歳重賞の戸塚記念、ロジータ記念が行われてきたが、いずれもダート2100mの競走で、3歳馬同士が短...</description>
+      <guid isPermaLink="false">https://news.netkeiba.com/?pid=news_view&amp;no=349378</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
